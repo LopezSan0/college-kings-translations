@@ -4,25 +4,25 @@
 translate portugues starta_cf384216:
 
     # em "I know what I did was bad..."
-    em "I know what I did was bad..."
+    em "Eu sei oque eu fiz foi ruim..."
 
 # game/v1/v1.rpy:50
 translate portugues starta_64fd2540:
 
     # em "But I'll do anything to make it up to you."
-    em "But I'll do anything to make it up to you."
+    em "Mas eu farei qualquer coisa para lhe compensar."
 
 # game/v1/v1.rpy:55
 translate portugues starta_bf767b85:
 
     # em "Anything."
-    em "Anything."
+    em "Qualquer coisa."
 
 # game/v1/v1.rpy:63
 translate portugues starta_a412f2c0:
 
     # "Honey?"
-    "Honey?"
+    "Querido?"
 
 # game/v1/v1.rpy:73
 translate portugues starta_b3630c9b:
@@ -34,121 +34,121 @@ translate portugues starta_b3630c9b:
 translate portugues starta_d8f49870:
 
     # ju "Breakfast is ready!"
-    ju "Breakfast is ready!"
+    ju "Café da manhã está pronto!"
 
 # game/v1/v1.rpy:83
 translate portugues starta_d1bbd257:
 
     # u "Mhmm... I'll be right down."
-    u "Mhmm... I'll be right down."
+    u "Mhmm... Já estou descendo."
 
 # game/v1/v1.rpy:84
 translate portugues starta_e1ee75ad:
 
     # u "(What am I doing dreaming about Emily?!)"
-    u "(What am I doing dreaming about Emily?!)"
+    u "(O que eu tô fazendo sonhando com a Emily?!)"
 
 # game/v1/v1.rpy:90
 translate portugues starta_b74833d7:
 
     # ju "Good morning, honey."
-    ju "Good morning, honey."
+    ju "Bom dia, querido."
 
 # game/v1/v1.rpy:95
 translate portugues starta_b997b913:
 
     # u "Morning, Julia."
-    u "Morning, Julia."
+    u "Bom dia, Julia."
 
 # game/v1/v1.rpy:100
 translate portugues starta_6de07b52:
 
     # ju "Are you excited for today?"
-    ju "Are you excited for today?"
+    ju "Você está ancioso para hoje?"
 
 # game/v1/v1.rpy:105
 translate portugues starta_4331151b:
 
     # u "Excited?"
-    u "Excited?"
+    u "Ancioso?"
 
 # game/v1/v1.rpy:110
 translate portugues starta_92971eae:
 
     # ju "Honey, it's your first day of college. That's a big deal!"
-    ju "Honey, it's your first day of college. That's a big deal!"
+    ju "Querido, é o seu primeiro dia na faculdade. Isso é muito bom!"
 
 # game/v1/v1.rpy:115
 translate portugues starta_8f620671:
 
     # u "I guess you're right."
-    u "I guess you're right."
+    u "Acho que você está certa."
 
 # game/v1/v1.rpy:119
 translate portugues starta_2eccb6f0:
 
     # ju "Have you packed all your stuff? Have you printed out all the documents you need? Have you-"
-    ju "Have you packed all your stuff? Have you printed out all the documents you need? Have you-"
+    ju "Você já arrumou todas as suas coisas? Já imprimiu todos os documentos necessários? Você já-"
 
 # game/v1/v1.rpy:125
 translate portugues starta_d6c07c0e:
 
     # u "Julia, it's fine. I packed yesterday."
-    u "Julia, it's fine. I packed yesterday."
+    u "Julia, tá tudo bem. Já arrumei tudo ontem."
 
 # game/v1/v1.rpy:130
 translate portugues starta_82219ef8:
 
     # ju "Look at you, all grown-up. I'm so proud of you."
-    ju "Look at you, all grown-up. I'm so proud of you."
+    ju "Olha só você, tão crescido. Estou tão orgulhosa de você."
 
 # game/v1/v1.rpy:135
 translate portugues starta_52918fb3:
 
     # ju "You better not forget to come visit."
-    ju "You better not forget to come visit."
+    ju "Melhor você não esquecer de me visitar."
 
 # game/v1/v1.rpy:137
 translate portugues starta_82cfc32d:
 
     # u "I'll think about it, if you make lasagna."
-    u "I'll think about it, if you make lasagna."
+    u "Vou pensar a respeito, se você fizer lasanha."
 
 # game/v1/v1.rpy:142
 translate portugues starta_038be2bb:
 
     # ju "I'm sure that could be arranged."
-    ju "I'm sure that could be arranged."
+    ju "Tenho certeza que isto pode ser providenciado."
 
 # game/v1/v1.rpy:144
 translate portugues starta_73181c8a:
 
     # ju "Anyway, we should get ready, you don't wanna be late on your first day of college!"
-    ju "Anyway, we should get ready, you don't wanna be late on your first day of college!"
+    ju "Enfim, nós devemos ficar prontos, você não vai querer se atrasar no seu primeiro dia na faculdade!"
 
 # game/v1/v1.rpy:149
 translate portugues starta_2498786c:
 
     # u "Oh, you're dropping me off? I was gonna take the train."
-    u "Oh, you're dropping me off? I was gonna take the train."
+    u "Ah, você vai me deixar lá? Eu ia pegar o trem."
 
 # game/v1/v1.rpy:154
 translate portugues starta_687c0a29:
 
     # ju "No way you're robbing me of the chance to embarrass you in front of your new friends."
-    ju "No way you're robbing me of the chance to embarrass you in front of your new friends."
+    ju "Nem ferrado que você vai me roubar a chance de te envergonhar na frente de seus novos amigos."
 
 # game/v1/v1.rpy:159
 translate portugues starta_0d074dd4:
 
     # u "Thanks, Julia... I'll be 20 minutes."
-    u "Thanks, Julia... I'll be 20 minutes."
+    u "Obrigado, Julia... Em 20 minutos estarei pronto."
 
 # game/v1/v1.rpy:164
 translate portugues starta_9a77e500:
 
     # u "(I better not lose this bag, Julia loves it.)"
-    u "(I better not lose this bag, Julia loves it.)"
+    u "(Melhor eu não perder essa mala, a Julia ama ela.)"
 
 # game/v1/v1.rpy:168
 translate portugues starta_8bdb5ed3:
@@ -160,19 +160,19 @@ translate portugues starta_8bdb5ed3:
 translate portugues starta_360e66fc:
 
     # u "(Fuck, I really don't want to see her again after what happened.\nHopefully I can avoid her as much as possible.)"
-    u "(Fuck, I really don't want to see her again after what happened.\nHopefully I can avoid her as much as possible.)"
+    u "(Porra, eu realmente não queria ver ela denovo depois do que aconteceu.\nEspero que consiga evitar ela o máximo possível.)"
 
 # game/v1/v1.rpy:196
 translate portugues starta_2dac9d0e:
 
     # ju "You know, when I was in college, there were these fraternities and sororities that everyone wanted to join."
-    ju "You know, when I was in college, there were these fraternities and sororities that everyone wanted to join."
+    ju "Vocè sabia, quando eu estava na faculdade tinham essas Fraternidades e Irmandades que todo mundo queria participar ."
 
 # game/v1/v1.rpy:198
 translate portugues starta_ed7737e5:
 
     # ju "I always thought they were stupid. Binge drinking, idiotic challenges and fighting..."
-    ju "I always thought they were stupid. Binge drinking, idiotic challenges and fighting..."
+    ju "Eu sempre pensei que eles eram estúpidos. Beber até cair, desafios idiotas e brigas... "
 
 # game/v1/v1.rpy:204
 translate portugues starta_22bad4d4:
@@ -184,43 +184,43 @@ translate portugues starta_22bad4d4:
 translate portugues starta_c90fe374:
 
     # ju "You're not planning on joining one of those, are you?"
-    ju "You're not planning on joining one of those, are you?"
+    ju "Você não está planejando em se juntar a uma delas, né?"
 
 # game/v1/v1.rpy:227
 translate portugues starta_5103a9b9:
 
     # u "I don't know... it might be fun."
-    u "I don't know... it might be fun."
+    u "Eu não sei... Talvez seja divertido."
 
 # game/v1/v1.rpy:235
 translate portugues starta_159d4a13:
 
     # u "No, I don't think so, Julia."
-    u "No, I don't think so, Julia."
+    u "Não, eu não acho, Julia."
 
 # game/v1/v1.rpy:244
 translate portugues aa_db_befaf879:
 
     # ju "Fraternities can be dangerous, honey."
-    ju "Fraternities can be dangerous, honey."
+    ju "Fraternidades podem ser perigosas, querido."
 
 # game/v1/v1.rpy:250
 translate portugues aa_db_df08ccc0:
 
     # ju "My boyfriend in college almost got suspended because he had to steal one of the lecturer's underwear."
-    ju "My boyfriend in college almost got suspended because he had to steal one of the lecturer's underwear."
+    ju "Meu namorado quase foi suspenso da faculdade porque tentou roubar as calcinhas da professora."
 
 # game/v1/v1.rpy:256
 translate portugues aa_db_8569c4fa:
 
     # u "*Chuckles*"
-    u "*Chuckles*"
+    u "*Risos*"
 
 # game/v1/v1.rpy:262
 translate portugues aa_db_c87a6833:
 
     # ju "Believe me, it's not as fun as it sounds."
-    ju "Believe me, it's not as fun as it sounds."
+    ju "Acredite em mim, não é tão divertido como aparenta ser."
 
 # game/v1/v1.rpy:268
 translate portugues aa_db_6e9b7094:
