@@ -226,67 +226,67 @@ translate portugues aa_db_c87a6833:
 translate portugues aa_db_6e9b7094:
 
     # u "Relax, Julia. Over the last couple years colleges have become a lot stricter."
-    u "Relax, Julia. Over the last couple years colleges have become a lot stricter."
+    u "Relaxa, Julia. Através dos últimos anos as faculdades ficaram bastante rígidas."
 
 # game/v1/v1.rpy:270
 translate portugues aa_db_25342ddd:
 
     # u "I doubt stuff like that happens anymore."
-    u "I doubt stuff like that happens anymore."
+    u "Duvido que coisas assim aconteçam ainda."
 
 # game/v1/v1.rpy:276
 translate portugues aa_db_2ad87597:
 
     # ju "Well, that would be a relief."
-    ju "Well, that would be a relief."
+    ju "Bem, isso seria um alívio."
 
 # game/v1/v1.rpy:282
 translate portugues aa_db_3a3a8c6d:
 
     # ju "Anyways..."
-    ju "Anyways..."
+    ju "Enfim..."
 
 # game/v1/v1.rpy:288
 translate portugues aa_db_f6ae9cf3:
 
     # ju "Sophia told me that Josh is also going to San Vallejo."
-    ju "Sophia told me that Josh is also going to San Vallejo."
+    ju "A Sophia me disse que o Josh também está indo para San Vallejo."
 
 # game/v1/v1.rpy:294
 translate portugues aa_db_84ee60dd:
 
     # u "You hang out with Josh's mom?"
-    u "You hang out with Josh's mom?"
+    u "Você tem saído com a mãe do Josh?"
 
 # game/v1/v1.rpy:300
 translate portugues aa_db_b9d51565:
 
     # ju "We go to the same nail salon."
-    ju "We go to the same nail salon."
+    ju "Nós vamos para o mesmo salão."
 
 # game/v1/v1.rpy:306
 translate portugues aa_db_7c46af54:
 
     # u "Whatever... me and Josh haven't really talked much lately."
-    u "Whatever... me and Josh haven't really talked much lately."
+    u "Que seja... eu e o Josh não conversamos muito ultimamente."
 
 # game/v1/v1.rpy:308
 translate portugues aa_db_a8f5f219:
 
     # u "(I wonder if he's still dealing...)"
-    u "(I wonder if he's still dealing...)"
+    u "(Me preocupo se ele ainda está traficando...)"
 
 # game/v1/v1.rpy:312
 translate portugues aa_db_451db5d3:
 
     # car "*stops*"
-    car "*stops*"
+    carro "*para*"
 
 # game/v1/v1.rpy:317
 translate portugues aa_db_9dc40050:
 
     # ju "Well, this is it. San Vallejo College."
-    ju "Well, this is it. San Vallejo College."
+    ju "Bem, é isso. Faculdade San Vallejo"
 
 # game/v1/v1.rpy:322
 translate portugues aa_db_9ea2f78c:
@@ -298,13 +298,13 @@ translate portugues aa_db_9ea2f78c:
 translate portugues aa_db_820fdfac:
 
     # u "Alright, let me grab my bag and I'm ready."
-    u "Alright, let me grab my bag and I'm ready."
+    u "Tudo certo, só deixa eu pegar minha mala e estou pronto."
 
 # game/v1/v1.rpy:334
 translate portugues aa_db_f779ad4d:
 
     # ju "Don't worry, I'll get it for you, honey."
-    ju "Don't worry, I'll get it for you, honey."
+    ju "Não se preocupe, eu pegarei para você querido."
 
 # game/v1/v1.rpy:341
 translate portugues aa_db_9ea2f78c_1:
@@ -316,55 +316,55 @@ translate portugues aa_db_9ea2f78c_1:
 translate portugues aa_db_f3a5d6c9:
 
     # ju "Here you go."
-    ju "Here you go."
+    ju "Aqui está."
 
 # game/v1/v1.rpy:351
 translate portugues aa_db_66f145da:
 
     # u "Thanks, Julia."
-    u "Thanks, Julia."
+    u "Obrigado, Julia."
 
 # game/v1/v1.rpy:356
 translate portugues aa_db_0e946d2c:
 
     # ju "Enjoy college, honey."
-    ju "Enjoy college, honey."
+    ju "Aproveite a faculdade, querido."
 
 # game/v1/v1.rpy:358
 translate portugues aa_db_8d7d5d1f:
 
     # ju "Don't forget to visit me."
-    ju "Don't forget to visit me."
+    ju "Não esqueça de me visitar."
 
 # game/v1/v1.rpy:363
 translate portugues aa_db_773e230c:
 
     # u "I won't, I'll see you soon."
-    u "I won't, I'll see you soon."
+    u "Não vou esquecer, vejo você em breve."
 
 # game/v1/v1.rpy:368
 translate portugues aa_db_d8da752f:
 
     # u "(Holy shit. I'm actually a college freshman now.)"
-    u "(Holy shit. I'm actually a college freshman now.)"
+    u "(Caralho. Oficialmente sou um calouro agora.)"
 
 # game/v1/v1.rpy:370
 translate portugues aa_db_b4109eb1:
 
     # u "(And already... so many hot girls.)"
-    u "(And already... so many hot girls.)"
+    u "(E enfim... muitas garotas gostosas.)"
 
 # game/v1/v1.rpy:375
 translate portugues aa_db_feb36aee:
 
     # ca "I'm telling you, she was trying to suck me off, while I was taking a shit."
-    ca "I'm telling you, she was trying to suck me off, while I was taking a shit."
+    ca "Tô te falando, ela tava tentando me chupar enquanto eu cagava."
 
 # game/v1/v1.rpy:380
 translate portugues aa_db_28d3f7bb:
 
     # ma "Dude, that's my sister you're talking about!"
-    ma "Dude, that's my sister you're talking about!"
+    ma "Cara, é da minha irmã que você ta falando!"
 
 # game/v1/v1.rpy:387
 translate portugues aa_db_9ea2f78c_2:
@@ -376,91 +376,91 @@ translate portugues aa_db_9ea2f78c_2:
 translate portugues aa_db_0f21bb45:
 
     # ca "Yo, watch where you're fucking walking, bitch!"
-    ca "Yo, watch where you're fucking walking, bitch!"
+    ca "Ei, olhe por onde você anda otário"
 
 # game/v1/v1.rpy:399
 translate portugues aa_db_885cc755:
 
     # u "Sorry man, I didn't mean to..."
-    u "Sorry man, I didn't mean to..."
+    u "Desculpe cara, não foi isso que eu.."
 
 # game/v1/v1.rpy:404
 translate portugues aa_db_d8df67ba:
 
     # ca "Fuck you, if you want a fucking problem, I'll give you a fucking problem!"
-    ca "Fuck you, if you want a fucking problem, I'll give you a fucking problem!"
+    ca "Que você se foda, se quiser a droga de um problema, te darei a porra de um problema!"
 
 # game/v1/v1.rpy:409
 translate portugues aa_db_1b57ce3e:
 
     # aut "Leave him alone Cameron."
-    aut "Leave him alone Cameron."
+    aut "Deixa ele Cameron."
 
 # game/v1/v1.rpy:411
 translate portugues aa_db_304c6a63:
 
     # aut "Otherwise I'll post the pics and I'm sure you don't want that."
-    aut "Otherwise I'll post the pics and I'm sure you don't want that."
+    aut "Caso contrário, postarei as fotos, e tenho certeza que você não quer isso."
 
 # game/v1/v1.rpy:416
 translate portugues aa_db_1bf7c341:
 
     # ca "Fine..."
-    ca "Fine..."
+    ca "Certo..."
 
 # game/v1/v1.rpy:418
 translate portugues aa_db_2dd477b7:
 
     # ca "Next time, Mommy won't be there to save you, asshole."
-    ca "Next time, Mommy won't be there to save you, asshole."
+    ca "Na próxima vez a Mamãezinha não vai tá aqui pra te salvar, cuzão."
 
 # game/v1/v1.rpy:425
 translate portugues aa_db_9ae7cce6:
 
     # aut "You okay?"
-    aut "You okay?"
+    aut "Você está bem?"
 
 # game/v1/v1.rpy:432
 translate portugues aa_db_3cc4a83e:
 
     # u "Yeah...thanks."
-    u "Yeah...thanks."
+    u "Sim... obrigado."
 
 # game/v1/v1.rpy:434
 translate portugues aa_db_e5f4315d:
 
     # u "I'm [name] by the way."
-    u "I'm [name] by the way."
+    u "Me chamo [name] aliás."
 
 # game/v1/v1.rpy:439
 translate portugues aa_db_c0f5654a:
 
     # aut "I'm Autumn."
-    aut "I'm Autumn."
+    aut "Me chamo Autumn."
 
 # game/v1/v1.rpy:441
 translate portugues aa_db_791f218c:
 
     # aut "You're new here right?"
-    aut "You're new here right?"
+    aut "Você é novo por aqui né?"
 
 # game/v1/v1.rpy:446
 translate portugues aa_db_b2b46500:
 
     # u "Yeah, is it that obvious?"
-    u "Yeah, is it that obvious?"
+    u "Sim, é tão óbvio assim?"
 
 # game/v1/v1.rpy:451
 translate portugues aa_db_70254a14:
 
     # aut "It's just that most people would avoid bumping into Cameron at any cost."
-    aut "It's just that most people would avoid bumping into Cameron at any cost."
+    aut "É que apenas grande parte das pessoas evitariam de se esbarrar no Cameron a qualquer custo"
 
 # game/v1/v1.rpy:458
 translate portugues aa_db_4561b8f0:
 
     # u "It's not as bad if you get to meet a pretty girl afterwards."
-    u "It's not as bad if you get to meet a pretty girl afterwards."
+    u "Não é tão ruim assim se você conhece uma garota bonita logo em seguida."
 
 # game/v1/v1.rpy:463
 translate portugues aa_db_a2992451:
@@ -472,91 +472,91 @@ translate portugues aa_db_a2992451:
 translate portugues aa_db_eedc251e:
 
     # u "(Way to make her uncomfortable, Casanova.)"
-    u "(Way to make her uncomfortable, Casanova.)"
+    u "(Grande jeito de fazer ela desconfortável, Novato.)"
 
 # game/v1/v1.rpy:473
 translate portugues aa_db_8bbbb0f2:
 
     # aut "Anyways, I gotta go. Nice to meet you."
-    aut "Anyways, I gotta go. Nice to meet you."
+    aut "Enfim, tenho de ir. Prazer em lhe conhecer."
 
 # game/v1/v1.rpy:479
 translate portugues aa_db_2ee51159:
 
     # u "Why is that?"
-    u "Why is that?"
+    u "O por que daquilo?"
 
 # game/v1/v1.rpy:484
 translate portugues aa_db_b6a9fd48:
 
     # aut "He's uhm-"
-    aut "He's uhm-"
+    aut "Ele uhm-"
 
 # game/v1/v1.rpy:486
 translate portugues aa_db_15cd2252:
 
     # aut "Let's just say he doesn't have the best of tempers."
-    aut "Let's just say he doesn't have the best of tempers."
+    aut "Vamos apenas dizem que ele tem pavio curto"
 
 # game/v1/v1.rpy:491
 translate portugues aa_db_8bbbb0f2_1:
 
     # aut "Anyways, I gotta go. Nice to meet you."
-    aut "Anyways, I gotta go. Nice to meet you."
+    aut "Enfim, tenho de ir. Prazer te conhecer."
 
 # game/v1/v1.rpy:497
 translate portugues ad_db_3e0ad800:
 
     # u "(Damn... she was really cute. Hopefully I'll get to see her again.)"
-    u "(Damn... she was really cute. Hopefully I'll get to see her again.)"
+    u "(Caraca... ela era realmente muito linda. Espero encontrar com ela de novo.)"
 
 # game/v1/v1.rpy:499
 translate portugues ad_db_9c52b5de:
 
     # u "(I should probably go to my induction class right now.)"
-    u "(I should probably go to my induction class right now.)"
+    u "(Provavelmente deva ir para a aula de introdução aos novatos agora.)"
 
 # game/v1/v1.rpy:506
 translate portugues ad_db_c224bb3e:
 
     # u "Sorry for being late, I couldn't find the classroom."
-    u "Sorry for being late, I couldn't find the classroom."
+    u "Perdão por estar atrasado. Não estava conseguindo encontrar a sala."
 
 # game/v1/v1.rpy:513
 translate portugues ad_db_e2737b85:
 
     # ro "It's fine, just take a seat."
-    ro "It's fine, just take a seat."
+    ro "Tudo bem, apenas sente-se."
 
 # game/v1/v1.rpy:518
 translate portugues ad_db_675e7bcc:
 
     # ro "We won't be starting 'til I can fix this damn laptop."
-    ro "We won't be starting 'til I can fix this damn laptop."
+    ro "Não iremos começar até que eu arrume a droga desse notebook."
 
 # game/v1/v1.rpy:523
 translate portugues ad_db_0608c281:
 
     # ry "Nice job being late on your first day, man."
-    ry "Nice job being late on your first day, man."
+    ry "Ótimo trabalho chegando atrasado no seu primeiro dia, mano."
 
 # game/v1/v1.rpy:528
 translate portugues ad_db_8eb7f5ad:
 
     # u "Thanks..."
-    u "Thanks..."
+    u "Obrigado..."
 
 # game/v1/v1.rpy:533
 translate portugues ad_db_77dfd603:
 
     # ry "I'm Ryan."
-    ry "I'm Ryan."
+    ry "Eu sou o Ryan."
 
 # game/v1/v1.rpy:538
 translate portugues ad_db_8af8bf58:
 
     # u "I'm [name]."
-    u "I'm [name]."
+    u "Me chamo [name]."
 
 # game/v1/v1.rpy:543
 translate portugues ad_db_b16a3a10:
