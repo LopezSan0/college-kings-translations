@@ -562,139 +562,139 @@ translate portugues ad_db_8af8bf58:
 translate portugues ad_db_b16a3a10:
 
     # ry "10 minutes late, sitting in the back row. Man, you'd make a perfect Ape."
-    ry "10 minutes late, sitting in the back row. Man, you'd make a perfect Ape."
+    ry "10 minutos atrasado, sentando no fundo da sala. Mano, você seria um perfeito Ape"
 
 # game/v1/v1.rpy:548
 translate portugues ad_db_c827eaef:
 
     # u "Ape? Are you calling me a chimpanzee?"
-    u "Ape? Are you calling me a chimpanzee?"
+    u "Ape? Tá me chamando de macaco em outra língua??"
 
 # game/v1/v1.rpy:553
 translate portugues ad_db_9f297b91:
 
     # ry "Nooo, the Apes, you don't know them?"
-    ry "Nooo, the Apes, you don't know them?"
+    ry "Nãaaaao, os Apes, você não sabe sobre eles?"
 
 # game/v1/v1.rpy:555
 translate portugues ad_db_cf152294:
 
     # ry "They're the best fraternity in the entire University. They get so many girls."
-    ry "They're the best fraternity in the entire University. They get so many girls."
+    ry "Eles são a melhor Fraternidade em toda a Universidade. Eles pegam tantas garotas."
 
 # game/v1/v1.rpy:557
 translate portugues ad_db_2534815f:
 
     # ry "And...their President is the current Fight King."
-    ry "And...their President is the current Fight King."
+    ry "E... o atual Presidente deles é o atual Rei da Luta."
 
 # game/v1/v1.rpy:562
 translate portugues ad_db_a79483bf:
 
     # u "Fight King? What are you talking about?"
-    u "Fight King? What are you talking about?"
+    u "Rei da Luta? Sobre o que você está falando?"
 
 # game/v1/v1.rpy:567
 translate portugues ad_db_1a3beb36:
 
     # ry "Don't tell me you don't know about the Summer Showdown?!"
-    ry "Don't tell me you don't know about the Summer Showdown?!"
+    ry "Não me fale que você não sabe sobre o Confronto de Verão!?"
 
 # game/v1/v1.rpy:572
 translate portugues ad_db_6bdd0a8e:
 
     # u "Never heard of it."
-    u "Never heard of it."
+    u "Nunca ouvi nada sobre."
 
 # game/v1/v1.rpy:577
 translate portugues ad_db_abbe6689:
 
     # ry "Duuude!"
-    ry "Duuude!"
+    ry "Maaaaaaano!"
 
 # game/v1/v1.rpy:582
 translate portugues ad_db_1efe722d:
 
     # ry "Every year the two most popular fraternities, the Apes and the Wolves, host an MMA fighting tournament called the Summer Showdown."
-    ry "Every year the two most popular fraternities, the Apes and the Wolves, host an MMA fighting tournament called the Summer Showdown."
+    ry "Todo o ano as duas mais populares Fraternidades, os Apes e os Wolves, eles sediam um torneio de luta MMA chamado de Confronto de Verão."
 
 # game/v1/v1.rpy:584
 translate portugues ad_db_25f53c47:
 
     # ry "The winner of the final fight is crowned the Fight King."
-    ry "The winner of the final fight is crowned the Fight King."
+    ry "O vencedo da luta final é coroado o novo Rei da Luta."
 
 # game/v1/v1.rpy:589
 translate portugues ad_db_8eda5bf0:
 
     # u "Well that seems pretty violent..."
-    u "Well that seems pretty violent..."
+    u "Bem, isso parece bastante violento..."
 
 # game/v1/v1.rpy:594
 translate portugues ad_db_9fd9ed2a:
 
     # ry "You don't get it... The Fight King gets sooo many girls."
-    ry "You don't get it... The Fight King gets sooo many girls."
+    ry "Você ainda não pegou a visão... O Rei da Luta consegue pegar muuuuitas garotas."
 
 # game/v1/v1.rpy:595
 translate portugues ad_db_e72f3ba5:
 
     # ry "I can't wait to become an Ape and compete."
-    ry "I can't wait to become an Ape and compete."
+    ry "Eu não posso esperar para me tornar um Ape e competir."
 
 # game/v1/v1.rpy:600
 translate portugues ad_db_7bedb932:
 
     # u "You want to fight?"
-    u "You want to fight?"
+    u "Vcoê quer lutar?"
 
 # game/v1/v1.rpy:605
 translate portugues ad_db_23c5c107:
 
     # ry "Did you not hear what I said? Sooo many girls."
-    ry "Did you not hear what I said? Sooo many girls."
+    ry "Tu não ouviu oque acabei de falar? Muuuuitas garotas."
 
 # game/v1/v1.rpy:610
 translate portugues ad_db_f4004f72:
 
     # u "Yeah, but do you even know how to fight?"
-    u "Yeah, but do you even know how to fight?"
+    u "Sim, mas vocçe sabe pelo menos como lutar?"
 
 # game/v1/v1.rpy:615
 translate portugues ad_db_b14d8766:
 
     # ry "Not yet, but the fraternities train you. After all, they want someone from their frat to win."
-    ry "Not yet, but the fraternities train you. After all, they want someone from their frat to win."
+    ry "Ainda não, mas as Fraternidades te treinam. Afinal das contas, eles querem alguém da Fraternidade deles que vença."
 
 # game/v1/v1.rpy:620
 translate portugues ad_db_d9d3333a:
 
     # u "Knock yourself out... Fighting is not really for me."
-    u "Knock yourself out... Fighting is not really for me."
+    u "Tira o cavalinho da chuva... Lutas não são realmente a minha praia."
 
 # game/v1/v1.rpy:625
 translate portugues ad_db_ff20357a:
 
     # ry "Trust me dude, if you're not a fighter, you're a nobody."
-    ry "Trust me dude, if you're not a fighter, you're a nobody."
+    ry "Confia em mim cara, se você não é um lutador, você não é ninguem."
 
 # game/v1/v1.rpy:627
 translate portugues ad_db_e1e082fb:
 
     # ry "You won't be invited to any parties and you won't get any hot girls."
-    ry "You won't be invited to any parties and you won't get any hot girls."
+    ry "Você não será convidado para festa alguma e não pegará nenhuma garota gostosa."
 
 # game/v1/v1.rpy:632
 translate portugues ad_db_360d1f0f:
 
     # ro "It seems that Elijah here fixed the laptop and we can start the induction. Thank you, Elijah."
-    ro "It seems that Elijah here fixed the laptop and we can start the induction. Thank you, Elijah."
+    ro "Parece que o Elijah consertou o notebook e assim podemos começar a introdução. Obrigado, Elijah"
 
 # game/v1/v1.rpy:639
 translate portugues ad_db_b2596c1e:
 
     # u "Wow Elijah, way to start the fun."
-    u "Wow Elijah, way to start the fun."
+    u "Wow Elijah, belo jeito de começar a diversão."
 
 # game/v1/v1.rpy:647
 translate portugues ad_db_885597a0:
@@ -706,55 +706,55 @@ translate portugues ad_db_885597a0:
 translate portugues ag_da_883214dc:
 
     # ro "Here at San Vallejo College most courses start their first year with the same three classes: Biology, Economics and History."
-    ro "Here at San Vallejo College most courses start their first year with the same three classes: Biology, Economics and History."
+    ro "Aqui na Universidade San Vallejo grande parte dos cursos começam seu primeiro ano com três matérias: Biologia, Economia e História."
 
 # game/v1/v1.rpy:658
 translate portugues ag_da_55bedea8:
 
     # ro "Alcohol, smoking and any form of violence whilst on College grounds is strictly forbidden."
-    ro "Alcohol, smoking and any form of violence whilst on College grounds is strictly forbidden."
+    ro "Alcóol, fumar e qualquer forma de violência nas dependêndias da Universidade é estrimamente proibido."
 
 # game/v1/v1.rpy:660
 translate portugues ag_da_a3af4d99:
 
     # ro "Classes start tomorrow, so you'll have plenty of time to explore the campus today."
-    ro "Classes start tomorrow, so you'll have plenty of time to explore the campus today."
+    ro "As aulas começam amanhã, então vocês terão bastante tempo para explorar o campus hoje."
 
 # game/v1/v1.rpy:662
 translate portugues ag_da_c1ab37ce:
 
     # ro "Now, let's move on to some of the boring administrative stuff..."
-    ro "Now, let's move on to some of the boring administrative stuff..."
+    ro "Agora, vamos para a parte de algumas coisas administrativas entediantes..."
 
 # game/v1/v1.rpy:695
 translate portugues ag_da_cb48ce5a:
 
     # ry "[name], give me your number and I'll hit you up for the Apes' rush party tomorrow."
-    ry "[name], give me your number and I'll hit you up for the Apes' rush party tomorrow."
+    ry "[name], me dê o seu número e te chamo mais tarde para a festa dos Apes de apresentação amanhã."
 
 # game/v1/v1.rpy:697
 translate portugues ag_da_d001303a:
 
     # ry "Then you'll see how sick they are."
-    ry "Then you'll see how sick they are."
+    ry "Assim você vai ver o quão foda eles são."
 
 # game/v1/v1.rpy:702
 translate portugues ag_da_a7111ff6:
 
     # u "Alright, sure."
-    u "Alright, sure."
+    u "Tudo bem."
 
 # game/v1/v1.rpy:707
 translate portugues ag_da_0515e6c0:
 
     # ry "Awesome, I'll see you later."
-    ry "Awesome, I'll see you later."
+    ry "Incrível, te vejo mais tarde."
 
 # game/v1/v1.rpy:712
 translate portugues ag_da_a7bf38fb:
 
     # la "You know... you don't have to join a frat to get girls."
-    la "You know... you don't have to join a frat to get girls."
+    la "Sabe... você não precisa se juntar a uma Fraternidade para pegar garotas."
 
 # game/v1/v1.rpy:717
 translate portugues ag_da_8b258704:
@@ -766,319 +766,319 @@ translate portugues ag_da_8b258704:
 translate portugues ag_da_9dd226d6:
 
     # la "Sorry... I overheard you guys talking and I just wanted to say that... this fighting thing? It's really stupid."
-    la "Sorry... I overheard you guys talking and I just wanted to say that... this fighting thing? It's really stupid."
+    la "Desculpa... Ouvi de relance vocês conversando e eu so queria falar aquilo... essa parada de luta? É algo realmente estúpido."
 
 # game/v1/v1.rpy:731
 translate portugues ag_da_c6e9033c:
 
     # u "It really is."
-    u "It really is."
+    u "E realmente é."
 
 # game/v1/v1.rpy:733
 translate portugues ag_da_a3d4daac:
 
     # u "Does that mean not all girls here are into the fighting?"
-    u "Does that mean not all girls here are into the fighting?"
+    u "Então isso significa que nem todas as garotas curtem esse lance de lutas?"
 
 # game/v1/v1.rpy:738
 translate portugues ag_da_6f65c9c5:
 
     # la "Not at all, pretty much any girl that's part of the Deer hates it."
-    la "Not at all, pretty much any girl that's part of the Deer hates it."
+    la "Não é uma regra, mas muitas das garotas dos Deer odeiam isso."
 
 # game/v1/v1.rpy:746
 translate portugues ag_da_85cc40ba:
 
     # u "I mean it is kinda cool, I just wish I knew how to fight."
-    u "I mean it is kinda cool, I just wish I knew how to fight."
+    u "Eu quero dizer tipo, e da hora, mas eu queria saber lutar."
 
 # game/v1/v1.rpy:751
 translate portugues ag_da_e61c7e99:
 
     # la "It's not cool, it's dangerous!"
-    la "It's not cool, it's dangerous!"
+    la "Não é legal, é perigoso!"
 
 # game/v1/v1.rpy:753
 translate portugues ag_da_bd280c79:
 
     # la "You know, there's a bunch of girls that would rather date a guy that doesn't fight."
-    la "You know, there's a bunch of girls that would rather date a guy that doesn't fight."
+    la "Sabe, tem muitas garotas que preferem sair com um cara que não luta."
 
 # game/v1/v1.rpy:758
 translate portugues ag_da_c5446f18:
 
     # u "Really?"
-    u "Really?"
+    u "Realmente?"
 
 # game/v1/v1.rpy:763
 translate portugues ag_da_0fee4769:
 
     # la "Yeah, most of the Deer for example."
-    la "Yeah, most of the Deer for example."
+    la "Sim, grande parte dos Deer por exemplo."
 
 # game/v1/v1.rpy:769
 translate portugues af_db_1cacebd1:
 
     # u "The Deer?"
-    u "The Deer?"
+    u "Os Deer?"
 
 # game/v1/v1.rpy:774
 translate portugues af_db_086c04ba:
 
     # la "They're one of the two sororities at San Vallejo. My sister Autumn is their President, so I know most of them quite well."
-    la "They're one of the two sororities at San Vallejo. My sister Autumn is their President, so I know most of them quite well."
+    la "Eles são uma das duas Irmandades em San Vallejo. Minha irmão Autumn é a Presidente deles, então conheço eles muito bem."
 
 # game/v1/v1.rpy:779
 translate portugues af_db_5cc482d2:
 
     # u "Autumn? I've actually met her just before this class."
-    u "Autumn? I've actually met her just before this class."
+    u "Autumn? Acabei de encontrar ela antes da aula."
 
 # game/v1/v1.rpy:784
 translate portugues af_db_87434f45:
 
     # la "You did? I hope she didn't weird you out. She can be a bit much."
-    la "You did? I hope she didn't weird you out. She can be a bit much."
+    la "Você encontrou? Espero que ela não tenha lhe espantado. As vezes ela pode soar assim."
 
 # game/v1/v1.rpy:789
 translate portugues af_db_ce8bea27:
 
     # u "Really? She was super nice to me."
-    u "Really? She was super nice to me."
+    u "Sério? Ela foi super de boa comigo."
 
 # game/v1/v1.rpy:794
 translate portugues af_db_8eb725f2:
 
     # la "Well... she's really passionate about political stuff and that can be a bit annoying haha."
-    la "Well... she's really passionate about political stuff and that can be a bit annoying haha."
+    la "Bem... ela é realemnte apaixonada por essa coisa política e pode ser um pouco irritante haha."
 
 # game/v1/v1.rpy:801
 translate portugues af_db_daac62bb:
 
     # u "Yeah, I get that."
-    u "Yeah, I get that."
+    u "Sim, peguei a ideia."
 
 # game/v1/v1.rpy:806
 translate portugues af_db_6f4ca145:
 
     # la "I bet you think she's cute, don't you?"
-    la "I bet you think she's cute, don't you?"
+    la "Eu aposto que você achou que ela é bonita, né?"
 
 # game/v1/v1.rpy:814
 translate portugues af_db_1b97be3d:
 
     # u "I think that's pretty cool."
-    u "I think that's pretty cool."
+    u "Eu acho que ela é bem legal."
 
 # game/v1/v1.rpy:819
 translate portugues af_db_ad6531f5:
 
     # la "Ohhh... so you think she's cute?"
-    la "Ohhh... so you think she's cute?"
+    la "Ohhh... então você acha que elá e bonita?"
 
 # game/v1/v1.rpy:826
 translate portugues af_db_222f9225:
 
     # u "I think you're cuter."
-    u "I think you're cuter."
+    u "Eu acho que você é mais."
 
 # game/v1/v1.rpy:831
 translate portugues af_db_ce23670f:
 
     # la "Haha, prince charming huh?"
-    la "Haha, prince charming huh?"
+    la "Haha, príncipe encantado ham?"
 
 # game/v1/v1.rpy:836
 translate portugues af_db_7e0e7a51:
 
     # u "Only for the right girl."
-    u "Only for the right girl."
+    u "Somente para a garota certa."
 
 # game/v1/v1.rpy:844
 translate portugues af_db_128eaf78:
 
     # u "Yeah, she's kinda cute."
-    u "Yeah, she's kinda cute."
+    u "Sim, ela é bonitinha."
 
 # game/v1/v1.rpy:849
 translate portugues af_db_61980c5c:
 
     # la "She's always been the pretty one."
-    la "She's always been the pretty one."
+    la "Ela sempre foi a mais bonita."
 
 # game/v1/v1.rpy:854
 translate portugues af_db_011ad96a:
 
     # u "Oh cmon, you're just as pretty."
-    u "Oh cmon, you're just as pretty."
+    u "Vamo lá, você é tão bonita quanto."
 
 # game/v1/v1.rpy:859
 translate portugues af_db_3071f7e9:
 
     # la "Smooth, haha."
-    la "Smooth, haha."
+    la "Sutil, haha."
 
 # game/v1/v1.rpy:865
 translate portugues aj_db_5be28c1b:
 
     # u "We should hang out sometime, what's your number?"
-    u "We should hang out sometime, what's your number?"
+    u "Nós devemos dar uma volta alguma hora, qual o teu número?"
 
 # game/v1/v1.rpy:870
 translate portugues aj_db_173c5e8d:
 
     # la "Wow, you don't even know my name and you're gonna ask for my number?"
-    la "Wow, you don't even know my name and you're gonna ask for my number?"
+    la "Uau, você nem sabe o meu nome e já está pedindo o meu número?"
 
 # game/v1/v1.rpy:875
 translate portugues aj_db_00fbe766:
 
     # u "Uhhhh..."
-    u "Uhhhh..."
+    u "Ehhhh..."
 
 # game/v1/v1.rpy:880
 translate portugues aj_db_1ff7b514:
 
     # la "I'm just kidding, I'm Lauren. I'll put my number into your phone."
-    la "I'm just kidding, I'm Lauren. I'll put my number into your phone."
+    la "Tô brincando, me chamo Lauren. Vou colocar meu número no seu telefone"
 
 # game/v1/v1.rpy:884
 translate portugues aj_db_0801b8ee:
 
     # u "Haha phew... I'm [name] by the way."
-    u "Haha phew... I'm [name] by the way."
+    u "Haha alívio... Me chamo [name] aliás."
 
 # game/v1/v1.rpy:886
 translate portugues aj_db_c6a4fd2a:
 
     # u "I'll text you later then, Lauren."
-    u "I'll text you later then, Lauren."
+    u "Te mando mensagem mais tarde, Lauren."
 
 # game/v1/v1.rpy:891
 translate portugues aj_db_cc686ec9:
 
     # la "Sounds good. I'll see you later."
-    la "Sounds good. I'll see you later."
+    la "Parece bom. Vejo você mais tarde."
 
 # game/v1/v1.rpy:899
 translate portugues aj_db_030708fe:
 
     # u "(I should probably go to my new dorm, but I might as well explore for a bit beforehand.)"
-    u "(I should probably go to my new dorm, but I might as well explore for a bit beforehand.)"
+    u "(Provável devo ir para meu novo dormitório, mas eu poderia explorar um pouco de antemão.)"
 
 # game/v1/v1.rpy:928
 translate portugues v1_freeRoam1_riley_4417530d:
 
     # u "Hey, you were the girl sitting next to Elijah!"
-    u "Hey, you were the girl sitting next to Elijah!"
+    u "Ei, você era a garota que estava sentada perto do Elijah!"
 
 # game/v1/v1.rpy:933
 translate portugues v1_freeRoam1_riley_5a5729bf:
 
     # ri "Haha, you caught me. That's what I'm known for."
-    ri "Haha, you caught me. That's what I'm known for."
+    ri "Haha, você me pegou. Assim que sou conhecido por."
 
 # game/v1/v1.rpy:938
 translate portugues v1_freeRoam1_riley_8af8bf58:
 
     # u "I'm [name]."
-    u "I'm [name]."
+    u "Me chamo[name]."
 
 # game/v1/v1.rpy:943
 translate portugues v1_freeRoam1_riley_cde3dd4b:
 
     # ri "I'm Riley."
-    ri "I'm Riley."
+    ri "Sou a Riley."
 
 # game/v1/v1.rpy:948
 translate portugues v1_freeRoam1_riley_e733c6bc:
 
     # ri "So what did you think of Ms. Rose?"
-    ri "So what did you think of Ms. Rose?"
+    ri "Então, oque você pensa da Sra Rose?"
 
 # game/v1/v1.rpy:957
 translate portugues v1_freeRoam1_riley_108f89e7:
 
     # u "Oh, she's super hot."
-    u "Oh, she's super hot."
+    u "Ah, ela é super gostosa."
 
 # game/v1/v1.rpy:962
 translate portugues v1_freeRoam1_riley_5538d1bc:
 
     # ri "Haha, I meant her teaching style."
-    ri "Haha, I meant her teaching style."
+    ri "Haha, tô falando do método de ensino dela."
 
 # game/v1/v1.rpy:967
 translate portugues v1_freeRoam1_riley_924d7214:
 
     # u "Ooops... I mean, yeah me too."
-    u "Ooops... I mean, yeah me too."
+    u "Ooops... Quero dizer, eu também."
 
 # game/v1/v1.rpy:972
 translate portugues v1_freeRoam1_riley_1d6bb509:
 
     # ri "You didn't pay much attention did you?"
-    ri "You didn't pay much attention did you?"
+    ri "Você não prestou muita atenção na aula não é?"
 
 # game/v1/v1.rpy:977
 translate portugues v1_freeRoam1_riley_452bcad3:
 
     # u "To be fair, the induction talk was reeeally boring."
-    u "To be fair, the induction talk was reeeally boring."
+    u "Sendo bem honesto, toda aquela conversa de introdução estava muuuuuito chata."
 
 # game/v1/v1.rpy:982
 translate portugues v1_freeRoam1_riley_0a10c3a6:
 
     # ri "Trueee, I wish I had sat further back. I had to look like I was engaged the entire time, or I would have left a bad first impression."
-    ri "Trueee, I wish I had sat further back. I had to look like I was engaged the entire time, or I would have left a bad first impression."
+    ri "Verdade, gostaria de ter sentado mais no fundo. Tive de aparentar interessada o tempo todo, ou iria deixar uma péssima primeira impressão ."
 
 # game/v1/v1.rpy:987
 translate portugues v1_freeRoam1_riley_9ed721a3:
 
     # u "Next time, just sit with me. Sitting in the last row is where it's at."
-    u "Next time, just sit with me. Sitting in the last row is where it's at."
+    u "Na próxima vez senta comigo. Sentar na última cadeira é o meu lugar ."
 
 # game/v1/v1.rpy:992
 translate portugues v1_freeRoam1_riley_5dd66e4c:
 
     # ri "Hmmm.. I'll think about it."
-    ri "Hmmm.. I'll think about it."
+    ri "Hmmm... Vou pensar sobre isso."
 
 # game/v1/v1.rpy:998
 translate portugues v1_freeRoam1_riley_9f41e0c7:
 
     # u "I guess she seems pretty nice. I didn't really pay much attention haha."
-    u "I guess she seems pretty nice. I didn't really pay much attention haha."
+    u "Acho que ela parece bastante legal. Não prestei tanta atenção haha."
 
 # game/v1/v1.rpy:1003
 translate portugues v1_freeRoam1_riley_c7612a61:
 
     # ri "Yeah, I wish I had sat further back. I had to look like I was engaged the entire time, or I would have left a bad first impression."
-    ri "Yeah, I wish I had sat further back. I had to look like I was engaged the entire time, or I would have left a bad first impression."
+    ri "Verdade, gostaria de ter sentado mais no fundo. Tive de aparentar interessada o tempo todo, ou iria deixar uma péssima primeira impressão"
 
 # game/v1/v1.rpy:1008
 translate portugues v1_freeRoam1_riley_9ed721a3_1:
 
     # u "Next time, just sit with me. Sitting in the last row is where it's at."
-    u "Next time, just sit with me. Sitting in the last row is where it's at."
+    u "Na próxima vez senta comigo. Sentar na última cadeira é o meu lugar."
 
 # game/v1/v1.rpy:1013
 translate portugues v1_freeRoam1_riley_5dd66e4c_1:
 
     # ri "Hmmm.. I'll think about it."
-    ri "Hmmm.. I'll think about it."
+    ri "Hmmm... Vou pensar sobre isso."
 
 # game/v1/v1.rpy:1022
 translate portugues v1_freeRoam1_riley2_93a57ebd:
 
     # u "You should really consider sitting in the last row."
-    u "You should really consider sitting in the last row."
+    u "Você deve realmente considerar sentar na última cadeira."
 
 # game/v1/v1.rpy:1027
 translate portugues v1_freeRoam1_riley2_84eb9a9f:
 
     # ri "Yeah.. you're probably right haha."
-    ri "Yeah.. you're probably right haha."
+    ri "Sim, você está provavelmente certo haha."
 
 # game/v1/v1.rpy:1035
 translate portugues v1_freeRoam1_elijah_30638a3b:
